@@ -44,11 +44,11 @@ git clone https://github.com/mhsnrafi/backend-home-task.git
 go run main.go
 ```
 ###### Terminal
-![](/Users/mac/Desktop/Screenshot 2022-11-24 at 11.35.35 PM.png)
+![](https://i.postimg.cc/P5p9N22V/Screenshot-2022-11-24-at-11-35-35-PM.png)
 
 ###### Run Test Case
 ```bash
 go test
 ```
 ###### Terminal
-![](/Users/mac/Desktop/Screenshot 2022-11-24 at 11.34.32 PM.png)
+![](https://i.postimg.cc/RCYTq9y9/Screenshot-2022-11-24-at-11-34-32-PM.png)
