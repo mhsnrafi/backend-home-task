@@ -35,7 +35,7 @@ export PATH=$PATH:$GOPATH/bin
 ## Clone
 
 ```bash
-git clone https://github.com/OneFootball-Hiring/backend-assignment-mhsnrafi.git
+git clone https://github.com/mhsnrafi/backend-home-task.git
 ```
 
 ###### Run
